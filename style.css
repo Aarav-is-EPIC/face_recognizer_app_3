@@ -1,0 +1,14 @@
+body{
+    background-color: gold;
+color: blue;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+   
+}
+#camera{
+    border:5px groove black;
+    width:350px;
+    height:300px;
+}
